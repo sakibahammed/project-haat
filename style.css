@@ -1,0 +1,33 @@
+    .text-deco {
+        text-decoration: none;
+    }
+    
+    .bg-inf {
+        background-color: #e8e8e8;
+    }
+    
+    .nav-bg {
+        background-color: #e8eeed;
+    }
+    
+    .bg-pera {
+        background-color: orangered;
+        font-size: 18px;
+        color: white;
+        border-radius: 20px;
+        padding: 25px;
+        margin-top: 20px;
+    }
+    
+    .p-info {
+        background-color: #e8e8e8;
+    }
+    
+    .p-button {
+        background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+        color: white;
+        padding: 20px;
+        border-radius: 8px;
+        padding: 9px 25px;
+        border: none;
+    }
